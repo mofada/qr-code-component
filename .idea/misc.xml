@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Angular</id>
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Cucumber</id>
+          </State>
+          <State>
+            <id>DOM 问题JavaScript 和 TypeScript</id>
+          </State>
+          <State>
+            <id>Dart</id>
+          </State>
+          <State>
+            <id>Dockerfile</id>
+          </State>
+          <State>
+            <id>DotEnv</id>
+          </State>
+          <State>
+            <id>ES2015 迁移协助JavaScript 和 TypeScript</id>
+          </State>
+          <State>
+            <id>EditorConfig</id>
+          </State>
+          <State>
+            <id>File Watcher</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>HTTP Client</id>
+          </State>
+          <State>
+            <id>Import 和依赖项JavaScript 和 TypeScript</id>
+          </State>
+          <State>
+            <id>JSON 和 JSON5</id>
+          </State>
+          <State>
+            <id>JavaScript and TypeScript</id>
+          </State>
+          <State>
+            <id>JavaScript 和 TypeScript</id>
+          </State>
+          <State>
+            <id>Less</id>
+          </State>
+          <State>
+            <id>Node.jsJavaScript 和 TypeScript</id>
+          </State>
+          <State>
+            <id>OpenAPI 规范</id>
+          </State>
+          <State>
+            <id>PostCSS</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>React Buddy</id>
+          </State>
+          <State>
+            <id>ReactJavaScript 和 TypeScript</id>
+          </State>
+          <State>
+            <id>Sass/SCSS</id>
+          </State>
+          <State>
+            <id>Security</id>
+          </State>
+          <State>
+            <id>SecurityJavaScript and TypeScript</id>
+          </State>
+          <State>
+            <id>Shell 脚本</id>
+          </State>
+          <State>
+            <id>Try 语句问题JavaScript 和 TypeScript</id>
+          </State>
+          <State>
+            <id>TypeScriptJavaScript 和 TypeScript</id>
+          </State>
+          <State>
+            <id>Vue</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+          <State>
+            <id>YAML</id>
+          </State>
+          <State>
+            <id>switch 语句问题JavaScript 和 TypeScript</id>
+          </State>
+          <State>
+            <id>代码样式问题CSS</id>
+          </State>
+          <State>
+            <id>代码样式问题JavaScript 和 TypeScript</id>
+          </State>
+          <State>
+            <id>代码质量工具CSS</id>
+          </State>
+          <State>
+            <id>代码质量工具JavaScript 和 TypeScript</id>
+          </State>
+          <State>
+            <id>函数指标JavaScript 和 TypeScript</id>
+          </State>
+          <State>
+            <id>可能不合需要的代码结构JavaScript 和 TypeScript</id>
+          </State>
+          <State>
+            <id>可能引起混淆的代码结构JavaScript 和 TypeScript</id>
+          </State>
+          <State>
+            <id>可能的 bugJavaScript 和 TypeScript</id>
+          </State>
+          <State>
+            <id>可访问性HTML</id>
+          </State>
+          <State>
+            <id>属性文件</id>
+          </State>
+          <State>
+            <id>常规</id>
+          </State>
+          <State>
+            <id>常规JavaScript 和 TypeScript</id>
+          </State>
+          <State>
+            <id>控制流问题JavaScript 和 TypeScript</id>
+          </State>
+          <State>
+            <id>数据流JavaScript 和 TypeScript</id>
+          </State>
+          <State>
+            <id>无效元素CSS</id>
+          </State>
+          <State>
+            <id>有效性问题JavaScript 和 TypeScript</id>
+          </State>
+          <State>
+            <id>未使用的符号JavaScript 和 TypeScript</id>
+          </State>
+          <State>
+            <id>校对</id>
+          </State>
+          <State>
+            <id>正则表达式</id>
+          </State>
+          <State>
+            <id>赋值问题JavaScript 和 TypeScript</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+</project>

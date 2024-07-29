@@ -2,6 +2,10 @@
 
 ![Design preview for the QR code component coding challenge](./preview.jpg)
 
+## Completed Solution
+This is Screenshot of the completed solution.
+![Complete Screenshot](./screenshot.png)
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
